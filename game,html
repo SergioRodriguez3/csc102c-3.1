@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Craps Game</title>
+    <script src="code.js"></script>
+</head>
+<body>
+    <h1>Craps Game</h1>
+    <button onclick="playCraps()">Play</button>
+    <p id="result"></p>
+</body>
+</html>
